@@ -7,6 +7,9 @@
   <a href="https://korenskoyr.github.io/YandexMusicLite/">
     <img src="https://img.shields.io/badge/YandexMusicLite-Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=f5a623" alt="YandexMusicLite Website" />
   </a>
+  <a href="mailto:maloy@korenskoy.ru">
+    <img src="https://img.shields.io/badge/Email-maloy%40korenskoy.ru-1f2937?style=for-the-badge&logo=maildotru&logoColor=f5a623" alt="Email" />
+  </a>
 </p>
 
 <div align="center">
@@ -88,6 +91,23 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KorenskoyR&theme=github-compact&color=1f2937&line=f5a623&point=0d1117&area=true&hide_border=true" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KorenskoyR&theme=github-compact&color=1f2937&line=f5a623&point=0d1117&area=true&hide_border=true" alt="Activity Graph" />
   </picture>
+</div>
+
+---
+
+### Contact & Collaboration / Связь и предложения
+
+<div align="center">
+  <p>
+    <b>EN:</b> Open to collaboration, project proposals, feedback, and ideas for Android &amp; Automotive UI.<br />
+    <b>RU:</b> Открыт к сотрудничеству, предложениям по проектам, обратной связи и новым идеям для Android и автоинтерфейсов.
+  </p>
+  <p>
+    <a href="mailto:maloy@korenskoy.ru">
+      <img src="https://img.shields.io/badge/Write%20me-maloy%40korenskoy.ru-f5a623?style=for-the-badge&logo=maildotru&logoColor=0d1117" alt="Contact Email" />
+    </a>
+  </p>
+  <sub>Direct email / Почта напрямую: <a href="mailto:maloy@korenskoy.ru"><code>maloy@korenskoy.ru</code></a></sub>
 </div>
 
 <div align="center">
