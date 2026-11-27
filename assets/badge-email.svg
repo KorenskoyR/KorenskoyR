@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="263" height="28" role="img" aria-label="EMAIL: MALOY@KORENSKOY.RU">
+  <title>EMAIL: MALOY@KORENSKOY.RU</title>
+  <g shape-rendering="crispEdges">
+    <rect width="78" height="28" fill="#555555"/>
+    <rect x="78" width="185" height="28" fill="#0d1117"/>
+  </g>
+  <g transform="translate(9 7)" fill="none" stroke="#f5a623" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="2.2" width="12" height="9.6" rx="1.6"/>
+    <path d="M1.6 3.2L7 7.6l5.4-4.4"/>
+  </g>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="475" y="175" textLength="372">EMAIL</text>
+    <text transform="scale(.1)" x="1705" y="175" textLength="1605" font-weight="bold">MALOY@KORENSKOY.RU</text>
+  </g>
+</svg>
